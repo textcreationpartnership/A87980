@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Kings Majesties court at Oatelands: concerning his Majesties comming to London. Also the copy of a remonstrance, and other papers of the army: debated by his Excellency Sir Thomas Fairfax: and his Councell of Warre: concerning the further desires of the army.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87980</idno><idno type="EEBO-CITATION">99862316</idno>
+  <idno type="VID">114470</idno>
+  <idno type="EEBO-PROQUEST">2248535139</idno>
+  
+            <idno type="STC">Wing L1527</idno>
+            <idno type="STC">Thomason E402_16</idno>
+            <idno type="STC">ESTC R201825</idno>
+            <idno type="PROQUEST">99862316</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862316e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114470)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Kings Majesties court at Oatelands: concerning his Majesties comming to London. Also the copy of a remonstrance, and other papers of the army: debated by his Excellency Sir Thomas Fairfax: and his Councell of Warre: concerning the further desires of the army.</title>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Smith,</publisher>
+                  <pubPlace>Cambridge, :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 17".</note>
+                  <note>Print show-through, obscuring text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army. --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114470:1"/>
+            <p>A LETTER FROM THE KINGS MAJESTIES COURT AT <hi>OATELANDS:</hi> Concerning his Majesties comming to <hi>LONDON.</hi>
+            </p>
+            <p>Also the Copy of a Remonstrance, and other Papers of the ARMY: Debated by his Excellency Sir <hi>THOMAS FAIRFAX:</hi> And his Councell of Warre: Concerning the further desires of the ARMY.</p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed for <hi>Nathaniel Smith, An<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114470:2"/>
+            <pb n="1" facs="tcp:114470:2"/>
+            <head>THREE Propositions from the Agitators of the Army, to his Excellency at <hi>Hammersmith,</hi> when the Members resided with the ARMY, <hi>August</hi> 5. 1647.</head>
+            <p>
+               <hi>FOrasmuch, as your Excellency with the Councell of War, by their Representations and Declarations have referred the composure of differences; and the Establishment of the Peace and happinesse of the whole Nation</hi> to a free Parlia<g ref="char:EOLhyphen"/>ment. <hi>Wee being very sensible, that the ends of all our la<g ref="char:EOLhyphen"/>bours, and manifold hazards of our lives are now depending thereupon; and of how dangerous a concernment it may prove, if persons dis-affected to the peace and welfare of the kingdome, should retain places therein: doe humbly offer to your Excellencies consideration, to be by you presented to the Members of Parliament, now residing in the Army.</hi>
+            </p>
+            <p>First, That all those who have sate at <hi>Westminster,</hi> u<g ref="char:EOLhyphen"/>surping a Parliamentary authority, since the Tumultu<g ref="char:EOLhyphen"/>ous and forcible expulsion of the Parliament of <hi>England,</hi> and choyce of new pretended Speakers (thereby giving incouragement and assistance to the City of <hi>London,</hi> to raise a new Warre in this Kingdome) may immediately be excluded the Houses.</p>
+            <p>Secondly, That all which formerly have been Mem<g ref="char:EOLhyphen"/>bers of Parliament, and have adhered to the pretended Parliament, may be also excluded the Houses: and a penalty agreed upon, to be imposed upon such person or persons, appearing guilty, that shall presume to sit after the said exclusion.</p>
+            <pb n="2" facs="tcp:114470:3"/>
+            <p>Lastly, That all <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>er Vote<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> against Members <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f affect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d may be duly executed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Dantel Hincksman</hi>
+                     </item>
+                     <item>
+                        <hi>Jo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Blackmore</hi>
+                     </item>
+                     <item>
+                        <hi>Geo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Tracey</hi>
+                     </item>
+                     <item>
+                        <hi>Will Youn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Thornberry.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Hall</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Vaughan</hi>
+                     </item>
+                     <item>
+                        <hi>John Wells</hi>
+                     </item>
+                     <item>
+                        <hi>John Wilfo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Io. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>man</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Lockier</hi>
+                     </item>
+                     <item>
+                        <hi>Ge<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>▪ Stevenson</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Whitmo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Clerk</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne</hi>
+                     </item>
+                     <item>
+                        <hi>Con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>olation Fox</hi>
+                     </item>
+                     <item>
+                        <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Butterr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Wil<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>by</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Twigge</hi>
+                     </item>
+                     <item>
+                        <hi>Will Pryor</hi>
+                     </item>
+                     <item>
+                        <hi>J Reyno<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Jos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ph W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>llin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ton</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Cannon</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Hodden</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn. P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rk</hi>
+                     </item>
+                     <item>
+                        <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>an Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>o. R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bin<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Clerk</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Iohnson</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Ioyce</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Sex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y</hi>
+                     </item>
+                     <item>
+                        <hi>VVill. Allen</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Johnson</hi>
+                     </item>
+                     <item>
+                        <hi>Joseph Adams</hi>
+                     </item>
+                     <item>
+                        <hi>Rich F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>illington</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Colbrand.</hi>
+                     </item>
+                     <item>
+                        <hi>Tim. VVhiting</hi>
+                     </item>
+                     <item>
+                        <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Shipden</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. Knolles</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. VVirkinson</hi>
+                     </item>
+                     <item>
+                        <hi>Edw▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lins</hi>
+                     </item>
+                     <item>
+                        <hi>Rich Salter</hi>
+                     </item>
+                     <item>
+                        <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bert Sted<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Herbert Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ld</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Baldwin</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Ellis</hi>
+                     </item>
+                     <item>
+                        <hi>John Felpes</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. Symond</hi>
+                     </item>
+                     <item>
+                        <hi>John VVoo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sheppard</hi>
+                     </item>
+                     <item>
+                        <hi>To<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <head>By His Excellency. A PROCLAMATION.</head>
+            <p>WHereas there are great complaints by divers inhabi<g ref="char:EOLhyphen"/>tants in severall Parishes where the Army is quartered of their being over burthened with Souldiers by reason of severall persons of estate who have protections to bee freed from quarter, having no souldiers put upon them, whilst the souldiers assigned to quarter in those Parishes put the rest of the poorer sort of inhabitants to great inconvenience<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the richer sort goe free, and im<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rtheneth. It is therefore <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dered by the Councell of Warre for prevention of the like complaints and inconveniencies for the future, that his Excel<g ref="char:EOLhyphen"/>lency be moved; that all protections for exemption from quarter be recalled, and that those persons who had the same
+<pb n="3" facs="tcp:114470:3"/> granted doe notwithstanding beare their share in quartering; yet neverthelesse shall have their houses free from quartering of private souldiers, provided they take care to provide quar<g ref="char:EOLhyphen"/>ter elsewhere for the proportion of souldiers which justly ought to be assigned to them; and all Officers in the Army are required to take notice of this order.</p>
+            <closer>
+               <signed>By the appointment of his Excellency Sir <hi>Tho. Fairfax,</hi> and his Councell of War. <hi>John Rushworth,</hi> &amp;c.</signed>
+               <dateline>
+                  <hi>Kingston</hi>
+                  <date>
+                     <hi>Aug.</hi> 11. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To his Excellency Sir <hi>Tho. Fairfax</hi> Knight Generall of all the forces within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales, &amp;c.</hi>
+            </head>
+            <opener>The humble Petition of divers Officers whose names are underwritten, Sheweth,</opener>
+            <p>THat many of your Petitioners have faithfully served the Common-Wealth, during these Wars as before, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce the reducement under your Excellencies command, for which there is great summes due and in arrears unto them as by their severall debenters and otherwise may appeare.</p>
+            <p>That some of your Petitioners necessitous condition hath required their long and chargeable attendance for supply in London; yet to this day hath not received one penny, whilest persons disaffected to the freedome of the people who deeply acted in the late tumults and distempers have received conside<g ref="char:EOLhyphen"/>rable summes, by which most of your Petitioners are reduced to such a miserable condition of living, that unlesse speedily relieved they must in all likelyhood perish.</p>
+            <p>Now forasmuch as your Petitioners have alwayes beene cordially affected to your Excellencies proceedings continu<g ref="char:EOLhyphen"/>ally, concurring in the Armies desires who for opposing these late tumults, distempers, mutinies, had their lives daily exposed to great hazard and danger.</p>
+            <p>Your Petitioners therefore most humbly pray your Excel<g ref="char:EOLhyphen"/>lency would vouchsafe to take them and their distressed condition into your serious consideration, and out of your wonted goodnesse <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a meanes they may bee relie<g ref="char:EOLhyphen"/>ved with some considerable proportion of their arreares,
+<pb n="4" facs="tcp:114470:4"/> in such way and manner as to your Excellencies wis<g ref="char:EOLhyphen"/>dome shall seem meet,</p>
+            <closer>
+               <signed>And your Petitioners (as bound) shall daily pray,
+<list>
+                     <item>
+                        <hi>J. Smith</hi> Capt. of horse.</item>
+                     <item>
+                        <hi>Benia. Perry</hi> Capt. of horse.</item>
+                     <item>
+                        <hi>Anth. Hiller</hi> Quartermaster.</item>
+                     <item>
+                        <hi>Edw. Apprire</hi> Cornet.</item>
+                     <item>
+                        <hi>Obad Perry</hi> Lieu.</item>
+                     <item>
+                        <hi>VVil, Wallis</hi> Cornet.</item>
+                     <item>
+                        <hi>Christo. Barker</hi> Quartermaster.</item>
+                     <item>
+                        <hi>Symon Browne</hi> Lieut.</item>
+                     <item>
+                        <hi>Tho. Blackmore</hi> Commissary of provisions.</item>
+                     <item>
+                        <hi>Rich. Smith</hi> Cornet.</item>
+                     <item>
+                        <hi>Rich. Nithlets</hi> Capt.</item>
+                     <item>
+                        <hi>Edw. Tapp</hi> Lieut.</item>
+                     <item>
+                        <hi>Nath. Knash</hi> Lieut.</item>
+                     <item>
+                        <hi>Robt. Fleet</hi> Quartermaster.</item>
+                     <item>
+                        <hi>Rob. Goodier</hi> Cornet.</item>
+                     <item>
+                        <hi>Rich. King</hi> Lieut.</item>
+                     <item>
+                        <hi>Rob. Pelham</hi> Capt.</item>
+                     <item>
+                        <hi>Jo. Evans</hi> Capt.</item>
+                     <item>
+                        <hi>Sam. Clark</hi> Quartermaster.</item>
+                     <item>
+                        <hi>Jo. Grenyway</hi> Cornet.</item>
+                     <item>
+                        <hi>Jo. Richman</hi> Lieut.</item>
+                     <item>
+                        <hi>Hen. Wansey</hi> Major.</item>
+                     <item>
+                        <hi>Jo. Waller</hi> Lieut.</item>
+                     <item>
+                        <hi>Tho. VVansey</hi> Lieut.</item>
+                     <item>
+                        <hi>Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>p. Chisman</hi> Cornet.</item>
+                     <item>
+                        <hi>Jo. Kindrick</hi> Lieut.</item>
+                     <item>
+                        <hi>Tobias Daniel</hi> Quart.</item>
+                     <item>
+                        <hi>Rich. Chum</hi> Commissary.</item>
+                     <item>
+                        <hi>Symon Rie</hi> Capt. Leut.</item>
+                     <item>
+                        <hi>Tho. Boylston</hi> Capt.</item>
+                     <item>
+                        <hi>Rich. Hiller</hi> Quart.</item>
+                     <item>
+                        <hi>Mo. R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ndel</hi> Capt.</item>
+                     <item>
+                        <hi>Rich. Lee</hi> Capt.</item>
+                     <item>
+                        <hi>Christop. Pennolt</hi> Lieut.</item>
+                     <item>
+                        <hi>Fran. Knight</hi> Ensigne.</item>
+                     <item>
+                        <hi>Rob. Langrish</hi> Capt.</item>
+                     <item>
+                        <hi>VVil. Ludlow</hi> Capt.</item>
+                     <item>
+                        <hi>Rob. Hassels</hi> Lieuten.</item>
+                     <item>
+                        <hi>Ja. Heely</hi> Cornet.</item>
+                     <item>
+                        <hi>Robt. Rede</hi> Quarterm.</item>
+                     <item>
+                        <hi>Jo. Lisleshwate</hi> Capt.</item>
+                     <item>
+                        <hi>And. Manwaring</hi> Capt.</item>
+                     <item>
+                        <hi>Rich. VVashburnham. Io Nash</hi> Cornet.</item>
+                     <item>
+                        <hi>John Arnet</hi> Cornet.</item>
+                     <item>
+                        <hi>Rich. Green</hi> Quartermaster and others.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>To his Excellency Sir</hi> Thomas Fairfax. The humble Remonstrance of the Agitators of the Army.</head>
+            <opener>May it please your Excellency,</opener>
+            <p>THe continued destructive designes and dangerous Combi<g ref="char:EOLhyphen"/>nations of perfidious men, formerly Members of Parlia<g ref="char:EOLhyphen"/>ment, which constantly blast the fairest hopes and expectati<g ref="char:EOLhyphen"/>ons of Peace and Freedome, rendring all our endeavours and hazards of our lives fruitlesse, and at present threatning the ruine and desolation of this poore distracted Kingdome, con<g ref="char:EOLhyphen"/>strains us once more to addresse our selves to your Excellency, to imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove the present opportunity that Providence hath put into your hands, of making them incapable of prosecuting their mischievous purposes; being fully confident that though their former treacheries were more obscure and intricate; yet their late unparalleld proceedings in violating the free legall Parliament, and <hi>usurping a Parliamentary power,</hi> on purpose to
+<pb n="5" facs="tcp:114470:4"/> have embroiled this miserable (and almost, still, bleeding) Nation, againe in blood, cries aloud to Justice to remove them from their <hi>Ʋsurped, Destructive Power.</hi>
+            </p>
+            <p>Seeing therefore those Honourable Members of Parliament that discharged their tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, have been forced to flye to this Army for refuge; that they might endeavour to secure them to fit as a free and legall Parliament, and your Excellency with this Army have engaged themselves to improve the utmost of your po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sibilities to that intent; and seeing those worthy Members are now againe dis-inabled for discharging their Trust, through the <hi>unexpected Intrusion of those Vsurpers,</hi> and their assuming to themselves a Power of voting among<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t them, whereby those desperate enemies to the Kingdomes peace and welfare, doe againe obscure and pervert the true Parliamenta<g ref="char:EOLhyphen"/>ry power, and imprint the image of that highe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Authority upon their owne designes, protecting themselves and their Accomplices from justice.</p>
+            <p>Wee cannot but humbly and earne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly implore your Excel<g ref="char:EOLhyphen"/>lency, That those Usurpers of that supream Authority might not be permitted (even contrary to the Law of nature) to fit judges of their owne prodigious Treacheries. But that all and every person, that have sate in that pretended Parliament, or adhered to them or their Votes, when the free legall Par<g ref="char:EOLhyphen"/>liament was by violence suspended, might immediatly be de<g ref="char:EOLhyphen"/>clared against, as persons uncapable of sitting or voting in this Parliament; That so according to our last Declaration, and our former Proposals tendred to your Excellency for that end, we might secure that free and legall Parliament, till the differences of the Kingdome be composed, and the Peace and Liberties of the people <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mly established.</p>
+            <closer>
+               <signed>Subscribed by the <hi>Auditors of the Army.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kingston</hi>
+                  <date>
+                     <hi>the</hi> 4. of <hi>August,</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:114470:5"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HIS Majesty is in very good health &amp; me<g ref="char:EOLhyphen"/>ry since he came hither, &amp; hath had some thoughts of comming to <hi>London,</hi> affecting to be with his Children at St. <hi>Jameses,</hi> But in re<g ref="char:EOLhyphen"/>gard of their removall to <hi>Sion</hi> House, because of the sicknesse, I suppose his Majesty will come no nearer the City at present than that place, neither can it be safe for his person in regard that so many Houses are visited in all parts about the City especially <hi>West<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inster,</hi> and the <hi>Strand,</hi> and upon advertisment that se<g ref="char:EOLhyphen"/>veral houses are shut up between <hi>White-hall<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> &amp; S. <hi>Jameses</hi> on the street side about <hi>Char<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng-Crosse,</hi> and other parts adjacent, How can it bee thought that his Majesty can be at <hi>London</hi> with<g ref="char:EOLhyphen"/>out great danger; but I suppose His Majesty will sudainly visit His Houses neare <hi>London,</hi> where he may be ready to receive such things as shall be presented to him from the Parlia<g ref="char:EOLhyphen"/>ment, for the settlement and peace of the King<g ref="char:EOLhyphen"/>domes</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at</hi> Oatlands <date>14 <hi>August</hi> 1647,</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
